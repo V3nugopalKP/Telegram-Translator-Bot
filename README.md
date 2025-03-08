@@ -58,6 +58,9 @@ This is a simple Telegram bot that translates messages sent to it. It uses the G
  - Start the bot by sending the /start command.
  - Send any text message, and the bot will reply with the translated message in the configured language.
    
+## DFD
+
+![telegram_translator_dfd](https://github.com/user-attachments/assets/25f09280-aa7c-4997-8f01-97b5837bf3c9)
 
 ## Contributing
 Feel free to open issues or submit pull requests if you'd like to contribute improvements to the bot.
